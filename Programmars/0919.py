@@ -10,7 +10,7 @@
 
 a, b = map(int, input().strip().split(' '))
 print(f'{a} + {b} = {a + b}')
-
+  
 
 #문자열 붙여서 출력하기
 #문제 설명
