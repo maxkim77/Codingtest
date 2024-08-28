@@ -1,6 +1,6 @@
 # [level 0] 최빈값 구하기 - 120812 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120812?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120812) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 28일 13:27:04
+2024년 08월 28일 13:27:50
 
 ### 문제 설명
 
