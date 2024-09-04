@@ -1,6 +1,6 @@
 # [level 0] 치킨 쿠폰 - 120884 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120884) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120884?language=java) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 04일 16:15:26
+2024년 09월 04일 16:16:22
 
 ### 문제 설명
 
