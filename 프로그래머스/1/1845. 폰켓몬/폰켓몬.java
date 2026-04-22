@@ -6,7 +6,7 @@ class Solution {
         for(int n:nums){
             hashSet.add(n);
         }
-        if(max>=hashSet.size()){
+        if(max>hashSet.size()){
             return hashSet.size();
         } else{
         return max;
